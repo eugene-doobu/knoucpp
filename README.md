@@ -15,6 +15,7 @@ Chapter9 : 진행x
 
 ## 추가
 
-2021 기말대비 특강
-<a href="./SpecialLecture/20211126">함수 + 클래스와 객체 + 상속 소스코드 중심 설명</a><br>
-<a href="./SpecialLecture/20211127">주요 내용 설명과 객관식 문제 풀이</a>
+### 2021 기말대비 특강
+
+<a href="./SpecialLecture/20211126.md">함수 + 클래스와 객체 + 상속 소스코드 중심 설명</a><br>
+<a href="./SpecialLecture/20211127.md">주요 내용 설명과 객관식 문제 풀이</a>
