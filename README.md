@@ -10,7 +10,7 @@ Chapter3 : 완료<br>
 Chapter4 : 완료<br>
 Chapter5 : 완료<br>
 Chapter6 : 완료<br>
-Chapter7 : 3<br>
+Chapter7 : 완료<br>
 Chapter8 : 진행x<br>
 Chapter9 : 진행x
 
